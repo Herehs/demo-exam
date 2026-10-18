@@ -1,0 +1,30 @@
+# данные и наука
+pandas
+matplotlib
+scipy
+numba
+sympy
+tables
+openpyxl
+odfpy
+Pillow
+
+# БД
+SQLAlchemy
+psycopg[binary]
+psycopg2-binary
+
+# web / парсинг
+requests
+beautifulsoup4
+lxml
+html5lib
+Jinja2
+PyYAML
+tornado
+
+# GUI
+PySide6
+
+# тесты
+pytest
